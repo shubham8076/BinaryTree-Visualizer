@@ -1,0 +1,16 @@
+.Textform-light {
+  /* color: #285430; */
+  color: #1A5D1A;
+}
+
+.Textform-dark {
+  color: white;
+}
+
+.Textform-textarea{
+    background-color: #E5FDD1;
+}
+
+.textform-btn-dark{
+    background-color: #FCFFB2;
+}

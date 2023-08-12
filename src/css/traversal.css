@@ -1,0 +1,13 @@
+.traversal-light {
+    border: 5px solid #A1C45A;
+    border-radius: 10px;
+    background-color: #FFD4D4;
+    color: #002F35;
+}
+  
+.traversal-dark {
+    border: 5px solid #212529;
+    border-radius: 10px;
+    background-color: #f2f2f2b4;
+    color: black
+}
